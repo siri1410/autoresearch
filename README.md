@@ -56,6 +56,7 @@ prepare.py      — constants, data prep + runtime utilities (do not modify)
 train.py        — model, optimizer, training loop (agent modifies this)
 program.md      — agent instructions
 pyproject.toml  — dependencies
+mybotbox/       — applying the autoresearch loop to MyBotBox (see mybotbox/README.md)
 ```
 
 ## Design choices
